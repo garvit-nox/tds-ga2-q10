@@ -5,7 +5,7 @@ import uuid, time
 app = FastAPI()
 
 ALLOWED_ORIGIN = "https://app-57xuu7.example.com"
-EMAIL = "your-email@example.com"  # <-- REPLACE WITH YOUR EMAIL
+EMAIL = "24f1000625@ds.study.iitm.ac.in"  # <-- REPLACE WITH YOUR EMAIL
 RATE_LIMIT = 10
 WINDOW = 10
 
